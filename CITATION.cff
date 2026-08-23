@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use AI Healthcare System in your research or clinical informatics projects, please cite it as below."
+authors:
+  - family-names: Mandala
+    given-names: Narendra
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "AI Healthcare Intelligence: Open-Source Privacy-First Clinical Intelligence & EHR Interoperability Platform"
+version: 1.0.0
+date-released: 2026-07-22
+url: "https://kilo.ai"
+repository-code: "https://kilo.ai"
+keywords:
+  - clinical decision support
+  - healthcare AI
+  - FHIR R4
+  - LangGraph RAG
+  - XGBoost diagnostics
+  - DICOM PACS
+abstract: "A production-grade, privacy-first open-source Electronic Health Record (EHR) and Clinical Decision Support System (CDSS) combining calibrated XGBoost diagnostic models, SHAP explainability, multi-agent LangGraph RAG, and native HL7 FHIR R4 interoperability."

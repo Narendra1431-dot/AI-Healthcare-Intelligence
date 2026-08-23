@@ -1,0 +1,24 @@
+# CODEOWNERS — Auto-assign reviewers on PRs
+# Docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default: everything
+* @maintainers
+
+# Backend — API, AI, ML
+/backend/ @maintainers
+
+# Frontend — React/Vite UI
+/frontend/ @maintainers
+
+# Infrastructure — CI/CD, Docker, Terraform
+/.github/ @maintainers
+/terraform/ @maintainers
+/Dockerfile* @maintainers
+/docker-compose* @maintainers
+
+# Tests
+/tests/ @maintainers
+
+# Documentation
+/docs/ @maintainers
+*.md @maintainers

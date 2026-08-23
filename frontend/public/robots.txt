@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Host & Sitemap
+Sitemap: https://your-username.github.io/AI-Healthcare-Intelligence/sitemap.xml
