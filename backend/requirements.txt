@@ -46,7 +46,7 @@ huggingface_hub>=0.20.0
 httpx
 # --- Optional ANN Backend ---
 # Optional — ANN vector backend; falls back to SimpleVectorStore when absent
-turbovec>=0.5.0
+turbovec>=1.0.0
 
 # --- Visualization ---
 matplotlib>=3.8.0
