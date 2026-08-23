@@ -15,7 +15,7 @@ jobs:
       TESTING: "true"
 
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v7
     
     - name: Fetch Doppler Secrets
       uses: dopplerhq/secrets-fetch-action@v1.2.0
