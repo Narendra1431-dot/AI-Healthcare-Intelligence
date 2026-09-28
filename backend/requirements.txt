@@ -28,7 +28,7 @@ python-dotenv
 # --- Data Science (Lite) ---
 pandas>=3.0.3
 numpy>=2.4.6
-scikit-learn==1.6.1
+scikit-learn==1.9.1==1.6.1
 xgboost
 lightgbm
 catboost
@@ -74,7 +74,7 @@ msgpack>=1.0.5
 great-expectations>=0.18.0
 faker>=24.0.0
 scipy>=1.11.0
-scikit-learn
+scikit-learn==1.9.1
 
 stripe>=10.1.0
 
